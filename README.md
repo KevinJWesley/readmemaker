@@ -1,13 +1,9 @@
-# dsfasdfasdfasdf
-  function renderLicenseBadge(licenseBadge) {
-  licenseBadge = `[License: ${data.license}](https://img.shields.io/badge/License-${data.license}-yellow.svg)(https://opensource.org/licenses/${data.license})`;
-
-  return licenseBadge;
-}
+# README.md Generator
+  
 
   ## Description 
 
-  sdfasdfasdf
+  Using Node.JS to dynamically generator a READ.md on the Command Line
 
   ## Table of Contents
 
@@ -18,28 +14,28 @@
 
  ## Installation
 
-  asdfasdfasdf
+  sdfsdf
 
 ## Usage
 
- asdfasdfasd
+ sdfsd
 
 ![alt screenshot](assets/images/screenshot.png)
 
 
 ## Test Instructions
 
- asdfasdfas
+ SDFASD
 
 ## Questions
 
-  - [My GitHub](dsfasdfas)
-  - [My Email] (asdfasdf)
+  - [My GitHub](ASDFASDF)
+  - [My Email] (ASDFASDF)
 
 
  ## Credits
 
- asdfasdf
+ sdfsdF
 
 
 ## License 

@@ -38,7 +38,7 @@ function generateMarkdown(data) {
   // object - dot notation
 
   return `# ${data.title}
-  ${licenseBadge}
+  
 
   ## Description 
 
