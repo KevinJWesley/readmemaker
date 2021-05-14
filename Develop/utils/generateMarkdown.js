@@ -59,7 +59,7 @@ function generateMarkdown(data) {
 
  ${data.usage}
 
-![alt screenshot](assets/images/screenshot.png)
+![alt screenshot](images/screenshot.png)
 
 
 ## Test Instructions

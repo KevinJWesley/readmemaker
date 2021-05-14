@@ -1,9 +1,9 @@
-# README.md Generator
+# README.md
   
 
   ## Description 
 
-  Using Node.JS to dynamically generator a READ.md on the Command Line
+  Dynamically generating a README.md using Inquirer, Node.js and JavaScript.
 
   ## Table of Contents
 
@@ -14,28 +14,28 @@
 
  ## Installation
 
-  sdfsdf
+  
 
 ## Usage
 
- sdfsd
+ 
 
-![alt screenshot](assets/images/screenshot.png)
+![alt screenshot](images/screenshot.png)
 
 
 ## Test Instructions
 
- SDFASD
+ 
 
 ## Questions
 
-  - [My GitHub](ASDFASDF)
-  - [My Email] (ASDFASDF)
+  - [My GitHub](KevinJWesley)
+  - [My Email] (email@email.com)
 
 
  ## Credits
 
- sdfsdF
+ 
 
 
 ## License 
