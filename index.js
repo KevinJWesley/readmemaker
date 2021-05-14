@@ -55,7 +55,7 @@ const questions = [
 function writeToFile(fileName, data) {
   //path - join method
 
-  return fs.writeFile("README.md", data, (err) => {
+  return fs.writeFile(fileName, data, (err) => {
     if (err) throw err;
 
     console.log("success!");

@@ -1,8 +1,13 @@
-# dfasdfadsfasdfasdf
+# dsfasdfasdfasdf
+  function renderLicenseBadge(licenseBadge) {
+  licenseBadge = `[License: ${data.license}](https://img.shields.io/badge/License-${data.license}-yellow.svg)(https://opensource.org/licenses/${data.license})`;
+
+  return licenseBadge;
+}
 
   ## Description 
 
-  asdf
+  sdfasdfasdf
 
   ## Table of Contents
 
@@ -13,33 +18,33 @@
 
  ## Installation
 
-  asdfadsfa
+  asdfasdfasdf
 
 ## Usage
 
- dsf
+ asdfasdfasd
 
 ![alt screenshot](assets/images/screenshot.png)
 
 
 ## Test Instructions
 
- asdf
+ asdfasdfas
 
 ## Questions
 
-  - [My GitHub](ads)
-  fas
+  - [My GitHub](dsfasdfas)
+  - [My Email] (asdfasdf)
 
 
  ## Credits
 
- asdf
+ asdfasdf
 
 
 ## License 
 
-MIT
+ISC
 
 
 
@@ -51,4 +56,4 @@ MIT
 
 
 
-  # readmemaker
+  
